@@ -1,6 +1,6 @@
 # 猛男力扣刷刷刷
 
-**数组**
+**1 数组**
 
 [704. 二分查找](https://leetcode.cn/problems/binary-search/)
 
@@ -12,7 +12,7 @@
 
 [59.螺旋矩阵 II](https://leetcode.cn/problems/spiral-matrix-ii/)
 
-**链表**
+**2 链表**
 
 C/C++的定义链表节点方式
 
@@ -37,7 +37,7 @@ struct ListNode {
 
 [142.环形链表II](https://leetcode.cn/problems/linked-list-cycle-ii/description/) 
 
-**哈希表**
+**3 哈希表**
 
 [242.有效的字母异位词](https://leetcode.cn/problems/valid-anagram/) 
 
@@ -55,7 +55,7 @@ struct ListNode {
 
 [18. 四数之和](https://leetcode.cn/problems/4sum/description/) 
 
-**字符串**
+**4 字符串**
 
 [344.反转字符串](https://leetcode.cn/problems/reverse-string/)
 
@@ -64,3 +64,33 @@ struct ListNode {
 [卡码网：54.替换数字](https://kamacoder.com/problempage.php?pid=1064)
 
 [卡码网：55.右旋转字符串](https://kamacoder.com/problempage.php?pid=1065)
+
+[151.翻转字符串里的单词](https://leetcode.cn/problems/reverse-words-in-a-string/)
+
+**双指针法**
+
+[27. 移除元素](https://leetcode.cn/problems/remove-element/)
+
+[344.反转字符串](https://leetcode.cn/problems/reverse-string/)
+
+[卡码网：54.替换数字](https://kamacoder.com/problempage.php?pid=1064)
+
+[151.翻转字符串里的单词](https://leetcode.cn/problems/reverse-words-in-a-string/)
+
+[206.反转链表](https://leetcode.cn/problems/reverse-linked-list/) 
+
+[19.删除链表的倒数第N个节点](https://leetcode.cn/problems/remove-nth-node-from-end-of-list/)
+
+[面试题 02.07. 链表相交](https://leetcode.cn/problems/intersection-of-two-linked-lists-lcci/) 
+
+[142.环形链表II](https://leetcode.cn/problems/linked-list-cycle-ii/description/) 
+
+[15. 三数之和](https://leetcode.cn/problems/3sum/) 
+
+[18. 四数之和](https://leetcode.cn/problems/4sum/description/) 
+
+**5 栈与队列**
+
+[232.用栈实现队列](https://leetcode.cn/problems/implement-queue-using-stacks/)
+
+[225. 用队列实现栈](https://leetcode.cn/problems/implement-stack-using-queues/)
