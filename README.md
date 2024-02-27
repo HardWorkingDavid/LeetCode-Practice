@@ -101,7 +101,7 @@ struct ListNode {
 
  [150. 逆波兰表达式求值](https://leetcode.cn/problems/evaluate-reverse-polish-notation/)
 
- **二叉树**
+ **6 二叉树**
 
  [144.二叉树的前序遍历](https://leetcode.cn/problems/binary-tree-preorder-traversal/description/)
 
@@ -116,3 +116,17 @@ struct ListNode {
 [199.二叉树的右视图](https://leetcode.cn/problems/binary-tree-right-side-view/)
 
 [637.二叉树的层平均值](https://leetcode.cn/problems/average-of-levels-in-binary-tree/)
+
+[429.N叉树的层序遍历](https://leetcode.cn/problems/n-ary-tree-level-order-traversal/)
+
+[515.在每个树行中找最大值](https://leetcode.cn/problems/find-largest-value-in-each-tree-row/)
+
+[116.填充每个节点的下一个右侧节点指针](https://leetcode.cn/problems/populating-next-right-pointers-in-each-node/)
+
+[117.填充每个节点的下一个右侧节点指针II](https://leetcode.cn/problems/populating-next-right-pointers-in-each-node-ii/)
+
+[104.二叉树的最大深度](https://leetcode.cn/problems/maximum-depth-of-binary-tree/)
+
+[111.二叉树的最小深度](https://leetcode.cn/problems/minimum-depth-of-binary-tree/)
+
+[226.翻转二叉树](https://leetcode.cn/problems/invert-binary-tree/) 
