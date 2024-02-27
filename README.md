@@ -100,3 +100,19 @@ struct ListNode {
 [1047. 删除字符串中的所有相邻重复项](https://leetcode.cn/problems/remove-all-adjacent-duplicates-in-string/)
 
  [150. 逆波兰表达式求值](https://leetcode.cn/problems/evaluate-reverse-polish-notation/)
+
+ **二叉树**
+
+ [144.二叉树的前序遍历](https://leetcode.cn/problems/binary-tree-preorder-traversal/description/)
+
+ [145.二叉树的后序遍历](https://leetcode.cn/problems/binary-tree-postorder-traversal/description/)
+
+ [94.二叉树的中序遍历](https://leetcode.cn/problems/binary-tree-inorder-traversal/description/)
+
+ [102.二叉树的层序遍历](https://leetcode.cn/problems/binary-tree-level-order-traversal/)
+
+[107.二叉树的层次遍历II](https://leetcode.cn/problems/binary-tree-level-order-traversal-ii/)
+
+[199.二叉树的右视图](https://leetcode.cn/problems/binary-tree-right-side-view/)
+
+[637.二叉树的层平均值](https://leetcode.cn/problems/average-of-levels-in-binary-tree/)
